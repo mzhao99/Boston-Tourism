@@ -1,4 +1,4 @@
-# Boston Trourism Website
+# Boston Tourism Website
 
 This project was created using React, MongoDB, and NodeJS.
 
